@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
         {
             "type": "java",
             "name": "Spring Boot-TechNewsJavaApiApplication<tech-news-java-api>",
@@ -8,8 +9,6 @@
             "mainClass": "com.technews.TechNewsJavaApiApplication",
             "projectName": "tech-news-java-api",
             "args": "",
-            "envFile": "${workspaceFolder}/.env",
-            "env": {"DB_PASSWORD":"rootroot"},
         }
     ]
 }
